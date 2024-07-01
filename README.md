@@ -85,4 +85,3 @@ This tool is intended for educational purposes only. Ensure you have permission 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to improve this project.
-```
